@@ -1,0 +1,2 @@
+Spain,Madrid,47000000
+France,Paris,67000000
